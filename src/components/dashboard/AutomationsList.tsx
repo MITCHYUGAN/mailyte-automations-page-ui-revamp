@@ -109,7 +109,7 @@ export default function AutomationsList({
             className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-gray-300 bg-white px-3.5 h-9 text-xs font-semibold text-gray-700 hover:bg-gray-50 shadow-xs transition-colors whitespace-nowrap shrink-0 cursor-pointer"
           >
             <Sparkles className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
-            Build from scratch
+            Start from scratch
           </button>
 
           <Link
