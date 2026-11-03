@@ -1,0 +1,6 @@
+{
+  "name": "Mailyte Automations Studio",
+  "description": "Revamped, spacious automation workflow and recipe experience for Mailyte email marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
